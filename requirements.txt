@@ -1,0 +1,10 @@
+flask
+openai
+python-dotenv
+transformers
+torch
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
